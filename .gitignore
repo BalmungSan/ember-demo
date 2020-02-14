@@ -1,0 +1,26 @@
+# Editors specific.
+*.swp
+*~*
+*#*
+.cache-main
+.classpath
+.project
+.settings/
+.idea/
+*.launch
+*.sublime-workspace
+
+# Java specific.
+*.class
+*.log
+
+# mvn specific.
+.cache
+.history
+.lib/
+dist/
+target/
+lib_managed/
+src_managed/
+/bin/
+dependency-reduced-pom.xml
